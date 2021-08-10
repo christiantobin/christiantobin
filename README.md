@@ -25,6 +25,7 @@ Connect with me:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Microsoft Office" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/76-office-256.png" />
+<img align="left" alt="Linux" width="26px" src="https://cdn4.iconfinder.com/data/icons/proglyphs-free/512/Linux_-_Tux-256.png" />
 
 <br />
 <br />
