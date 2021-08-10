@@ -2,7 +2,7 @@
 
 ## Welcome to Christian Tobin's GitHub Portfolio!
 
-[<img align="left" alt="Christian Tobin | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Christian Tobin | LinkedIn" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
 
 <br />
 
