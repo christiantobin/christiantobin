@@ -2,11 +2,11 @@
 
 ## Welcome to my GitHub portfolio!
 
-### Things I'm working on:
+### Things I'm currently working on:
 
 - UFC data collector using web scraping <!-- Add links to repos -->
 - XGBoost ML model to predict UFC fight results
-- [Discord Bot with Economy (powered by SQLite)][https://github.com/christiantobin/first-discord-bot]
+- [Discord Bot with Economy (powered by SQLite)][discordbot]
 
 #### Connect with me:
 
@@ -41,6 +41,7 @@
 
 [linkedin]: https://linkedin.com/in/christian-tobin-37a6b9169/
 [discord]: .
+[discordbot]: https://github.com/christiantobin/first-discord-bot
 
 <!--
 **christiantobin/christiantobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
