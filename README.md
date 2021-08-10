@@ -1,6 +1,6 @@
-### Hello visitor
+### Hello Visitor,
 
-## Welcome to Christian Tobin's GitHub Portfolio!
+## Welcome to **Christian Tobin**'s GitHub Portfolio!
 
 [<img align="left" alt="Christian Tobin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
