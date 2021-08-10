@@ -6,6 +6,7 @@ Connect with me:
 <br />
 
 [<img align="left" alt="Christian Tobin | LinkedIn" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
+[<img align="left" alt="Discord" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-256.png" />][discord]
 
 <br />
 
@@ -26,11 +27,13 @@ Connect with me:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Microsoft Office" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/76-office-256.png" />
 <img align="left" alt="Linux" width="26px" src="https://cdn4.iconfinder.com/data/icons/proglyphs-free/512/Linux_-_Tux-256.png" />
+<img align="left" alt="Flutter" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flutter-256.png" />
 
 <br />
 <br />
 
 [linkedin]: linkedin.com/in/christian-tobin-37a6b9169/
+[discord]: .
 
 <!--
 **christiantobin/christiantobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
