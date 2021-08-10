@@ -2,6 +2,12 @@
 
 ## Welcome to my GitHub portfolio!
 
+### Things I'm working on:
+
+- UFC data collector using web scraping
+- XGBoost ML model to predict UFC fight results
+- Discord Bot with Economy (powered by SQLite)
+
 #### Connect with me:
 
 <br />
