@@ -4,9 +4,9 @@
 
 ### Things I'm working on:
 
-- UFC data collector using web scraping
+- UFC data collector using web scraping <!-- Add links to repos -->
 - XGBoost ML model to predict UFC fight results
-- Discord Bot with Economy (powered by SQLite)
+- [Discord Bot with Economy (powered by SQLite)][https://github.com/christiantobin/first-discord-bot]
 
 #### Connect with me:
 
