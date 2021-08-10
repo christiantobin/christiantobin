@@ -1,8 +1,9 @@
-#### Hello Visitor,
+#### Hey it's Christian,
 
-## Welcome to Christian Tobin's GitHub Portfolio!
+## Welcome to my GitHub portfolio!
 
 #### Connect with me:
+
 <br />
 
 [<img align="left" alt="Christian Tobin | LinkedIn" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
