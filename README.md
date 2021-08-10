@@ -32,7 +32,7 @@ Connect with me:
 <br />
 <br />
 
-[linkedin]: linkedin.com/in/christian-tobin-37a6b9169/
+[linkedin]: https://linkedin.com/in/christian-tobin-37a6b9169/
 [discord]: .
 
 <!--
