@@ -6,7 +6,7 @@ Connect with me:
 <br />
 
 [<img align="left" alt="Christian Tobin | LinkedIn" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
-[<img align="left" alt="Discord" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-256.png" />][discord]
+[<img align="left" alt="Discord" width="34px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-256.png" />][discord]
 
 <br />
 
