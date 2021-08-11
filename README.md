@@ -6,7 +6,7 @@
 
 - Machine Learning
 - Mobile Applications
-- IoT
+- IoT and Embedded Systems
 - Bioinformatics
 - Relational Databases
 - Data Processing
