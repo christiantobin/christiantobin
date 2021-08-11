@@ -16,7 +16,7 @@
 - Gaming
 - MMA
 - Distance Running
-- Future tech
+- Future Tech
 
 ### Things I'm currently working on:
 
