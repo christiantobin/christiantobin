@@ -2,6 +2,21 @@
 
 ## Welcome to my GitHub portfolio!
 
+### Coding Interests
+
+- Machine Learning
+- Mobile Applications
+- IoT
+- Bioinformatics
+- Relational Databases
+
+### Other interests
+
+- Gaming
+- MMA
+- Distance Running
+- Future tech
+
 ### Things I'm currently working on:
 
 - UFC data collector using web scraping <!-- Add links to repos -->
