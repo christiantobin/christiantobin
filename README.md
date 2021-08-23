@@ -1,4 +1,4 @@
-#### Hey it's Christian,
+### Hey it's Christian,
 
 ## Welcome to my GitHub portfolio!
 
