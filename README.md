@@ -20,8 +20,8 @@
 
 ### Things I'm currently working on:
 
-- UFC data collector using web scraping <!-- Add links to repos -->
 - XGBoost ML model to predict UFC fight results
+- [Interactive Portfolio using Angular and S3 static web hosting][portfolio]
 - [Discord Bot with Economy (powered by SQLite)][discordbot]
 
 #### Connect with me:
@@ -56,6 +56,7 @@
 [linkedin]: https://linkedin.com/in/christian-tobin-37a6b9169/
 [discord]: .
 [discordbot]: https://github.com/christiantobin/first-discord-bot
+[portfolio]: https://github.com/christiantobin/PortfolioWebsite
 
 <!--
 **christiantobin/christiantobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
