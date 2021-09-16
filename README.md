@@ -24,6 +24,10 @@
 - [Interactive Portfolio using Angular and S3 static web hosting][portfolio]
 - [Discord Bot with Economy (powered by SQLite)][discordbot]
 
+### Education:
+<img align="left" alt="CSUSM width="26px" src="https://www.csusm.edu/communications/images/branding-images/spirit-logo02.jpg" />
+B.S. Computer Science at Califonia State University San Marcos 
+
 #### Connect with me:
 
 [<img align="left" alt="Christian Tobin | LinkedIn" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
