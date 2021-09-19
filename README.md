@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub portfolio!
 
-### Coding Interests
+### Coding Interests:
 
 - Machine Learning
 - Mobile Applications
@@ -11,7 +11,7 @@
 - Relational Databases
 - Data Processing
 
-### Other interests
+### Other interests:
 
 - Gaming
 - MMA
