@@ -37,7 +37,7 @@ B.S. Computer Science at California State University San Marcos
 
 <br />
 
-### Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="C++" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-256.png" />
 <img align="left" alt="Swift" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/332_Swift_logo-256.png" />
