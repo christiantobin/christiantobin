@@ -15,7 +15,7 @@
 
 - Gaming
 - MMA
-- Distance Running
+- Running
 - Photography, Editing
 
 ### Things I'm currently working on:
