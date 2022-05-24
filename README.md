@@ -27,7 +27,7 @@
 ### Education:
 
 <img align="left" alt="CSUSM" width="26px" src="https://www.csusm.edu/communications/images/branding-images/spirit-logo02.jpg"/>
-B.S. Computer Science at California State University San Marcos (May 2022)
+B.S. Computer Science at California State University San Marcos
 
 ### Socials:
 
