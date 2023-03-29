@@ -4,6 +4,7 @@
 
 ### Coding Interests:
 
+- Prompt Engineering
 - Machine Learning
 - Mobile Applications
 - IoT and Embedded Systems
