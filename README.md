@@ -1,6 +1,6 @@
 ### Hey it's Christian,
 
-## Welcome to my GitHub portfolio!
+## Welcome to my GitHub Portfolio!
 
 ### Coding Interests:
 
