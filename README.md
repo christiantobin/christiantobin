@@ -58,7 +58,7 @@ B.S. Computer Science at California State University San Marcos
 [discordbot]: https://github.com/christiantobin/first-discord-bot
 [portfolio]: https://github.com/christiantobin/PortfolioWebsite
 
-> "When in doubt, cout<<" -a wise man
+> "When in doubt, cout<<"
 <!--
 **christiantobin/christiantobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
