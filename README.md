@@ -19,12 +19,6 @@
 - Running
 - Photography, Editing
 
-### Things I'm currently working on:
-
-- XGBoost ML model to predict UFC fight results
-- [Interactive Portfolio using Angular and S3 static web hosting][portfolio]
-- [Discord Bot with Economy (powered by SQLite)][discordbot]
-
 ### Education:
 
 <img align="left" alt="CSUSM" width="26px" src="https://www.csusm.edu/communications/images/branding-images/spirit-logo02.jpg"/>
