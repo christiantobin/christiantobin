@@ -4,19 +4,18 @@
 
 ### Coding Interests:
 
+- IoT and Embedded Systems
 - Prompt Engineering
 - Machine Learning
 - Mobile Applications
-- IoT and Embedded Systems
 - Bioinformatics
-- Relational Databases
 - Data Processing
 
 ### Other interests:
 
-- Gaming
-- MMA
 - Running
+- MMA
+- Gaming
 - Photography, Editing
 
 ### Education:
