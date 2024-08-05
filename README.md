@@ -26,6 +26,7 @@ B.S. Computer Science at California State University San Marcos
 ### Socials:
 
 [<img align="left" alt="Christian Tobin | LinkedIn" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
+[<img align="left" alt="Christian Tobin | X" width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-256.png" />][x]
 
 <!-- [<img align="left" alt="Discord" width="38px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-256.png" />][discord] -->
 
@@ -56,6 +57,7 @@ B.S. Computer Science at California State University San Marcos
 [discord]: .
 [discordbot]: https://github.com/christiantobin/first-discord-bot
 [portfolio]: https://github.com/christiantobin/PortfolioWebsite
+[x]: https://x.com/christianjtobin
 
 > "When in doubt, cout<<"
 <!--
