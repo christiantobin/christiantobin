@@ -20,8 +20,8 @@
 
 ### Education:
 
-<img align="left" alt="CSUSM" width="26px" src="https://www.csusm.edu/communications/images/branding-images/spirit-logo02.jpg"/>
-B.S. Computer Science at California State University San Marcos
+- <img align="left" alt="Georgia Tech" width="26px" src="https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png"/>M.S. Computer Science at Georigia Institute of Technology 
+- <img align="left" alt="CSUSM" width="26px" src="https://www.csusm.edu/communications/images/branding-images/spirit-logo02.jpg"/>B.S. Computer Science at California State University San Marcos
 
 ### Socials:
 
