@@ -2,7 +2,7 @@
 <h2 align="center">Welcome to my GitHub Portfolio!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Christian+Tobin+—+Software+Engineer;IoT+and+Embedded+Systems+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Christian+Tobin+—+Software+Engineer;IoT+and+Embedded+Systems+Specialist" alt="" />
 </p>
 
 ### 💻 Coding Interests:
