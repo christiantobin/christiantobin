@@ -5,6 +5,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Christian+Tobin+—+Software+Engineer;IoT+and+Embedded+Systems+Specialist" alt="" />
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/christianjtobin" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+
+
 ### 💻 Coding Interests:
 
 - IoT and Embedded Systems
