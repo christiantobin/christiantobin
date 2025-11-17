@@ -41,6 +41,8 @@
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)][x]
 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+
 ## 📚 Languages and Tools
 
 <details>
@@ -108,6 +110,7 @@
 [discordbot]: https://github.com/christiantobin/first-discord-bot
 [portfolio]: https://github.com/christiantobin/PortfolioWebsite
 [x]: https://x.com/christianjtobin
+[youtube]: https://www.youtube.com/@christiantobin6006
 
 > "When in doubt, cout<<"
 
