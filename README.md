@@ -20,7 +20,7 @@
 I'm a passionate software engineer specializing in **IoT and embedded systems**, with expertise in building scalable cloud solutions using AWS. I love working at the intersection of hardware and software, creating intelligent systems that bridge the physical and digital worlds.
 
 - 🔭 Currently working on IoT solutions with AWS IoT Core and edge computing
-- 🌱 Exploring machine learning, bioinformatics, and advanced prompt engineering
+- 🌱 Exploring machine learning, bioinformatics, and AI agent development
 - 💡 Passionate about building efficient, scalable, and innovative solutions
 - 🎯 Always eager to learn new technologies and tackle challenging problems
 
@@ -84,7 +84,7 @@ I'm a passionate software engineer specializing in **IoT and embedded systems**,
 <td valign="top" width="50%">
 
 #### 🤖 AI & Machine Learning
-- Prompt Engineering
+- AI Agent Development
 - Amazon Bedrock & SageMaker
 - Bioinformatics Applications
 - Data Processing & Analysis
@@ -163,7 +163,7 @@ I'm a passionate software engineer specializing in **IoT and embedded systems**,
 
 ### 💻 Tech & Development
 - 🤖 IoT & Embedded Systems
-- 🧠 Prompt Engineering & AI
+- 🧠 AI Agent Development
 - 📊 Machine Learning & Bioinformatics
 - 📱 Mobile Application Development
 - 📈 Data Processing & Analytics
