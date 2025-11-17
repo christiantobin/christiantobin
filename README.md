@@ -47,7 +47,7 @@ I'm a passionate software engineer specializing in **IoT and embedded systems**,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christiantobin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=christiantobin&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=christiantobin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christiantobin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
@@ -157,6 +157,8 @@ I'm a passionate software engineer specializing in **IoT and embedded systems**,
 
 ## 🎯 Interests & Hobbies
 
+<div align="center">
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -180,6 +182,8 @@ I'm a passionate software engineer specializing in **IoT and embedded systems**,
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
