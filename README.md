@@ -34,8 +34,8 @@ I'm a passionate software engineer specializing in **IoT and embedded systems**,
 
 <div align="center">
 
-[![Georgia Tech](https://img.shields.io/badge/Georgia%20Tech-B3A369?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==&logoColor=white)](https://www.gatech.edu)
-[![CSUSM](https://img.shields.io/badge/CSU%20San%20Marcos-002855?style=for-the-badge&logo=&logoColor=white)](https://www.csusm.edu)
+[![Georgia Tech](https://img.shields.io/badge/Georgia%20Tech-B3A369?style=for-the-badge&logoColor=white)](https://www.gatech.edu)
+[![CSUSM](https://img.shields.io/badge/CSU%20San%20Marcos-002855?style=for-the-badge&logoColor=white)](https://www.csusm.edu)
 
 </div>
 
@@ -47,7 +47,7 @@ I'm a passionate software engineer specializing in **IoT and embedded systems**,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christiantobin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christiantobin&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=christiantobin&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christiantobin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
@@ -56,6 +56,8 @@ I'm a passionate software engineer specializing in **IoT and embedded systems**,
 ---
 
 ## 💼 Technical Expertise
+
+<div align="center">
 
 ### 💻 Core Areas
 
@@ -101,6 +103,10 @@ I'm a passionate software engineer specializing in **IoT and embedded systems**,
 </td>
 </tr>
 </table>
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -184,7 +190,7 @@ I'm a passionate software engineer specializing in **IoT and embedded systems**,
 I'm always open to interesting conversations and collaboration opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian@wirelesseco.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christiantobin)
 
 ### 💬 Feel free to reach out if you want to:
