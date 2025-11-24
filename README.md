@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=header"/>
+
 <div align="center">
 
 # 👋 Hey, I'm Christian Tobin
@@ -5,7 +7,7 @@
 ### Software Engineer | IoT & Embedded Systems Specialist
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+IoT+Specialist;Building+Scalable+Cloud+Solutions;Embedded+Systems+%26+Edge+Computing;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+IoT+Specialist;Building+Scalable+Cloud+Solutions;Embedded+Systems+%26+Edge+Computing;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -213,11 +215,13 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=christiantobin&color=00BFFF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=christiantobin&color=BB9AF7&style=for-the-badge)
 
 **Thanks for visiting!** ⭐️ Star some repositories if you find them interesting!
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=footer"/>
 
 <!-- Links -->
 [linkedin]: https://linkedin.com/in/christian-tobin-37a6b9169/
