@@ -45,9 +45,14 @@ I'm a passionate software engineer specializing in **IoT and embedded systems**,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christiantobin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<a href="https://github.com/christiantobin">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christiantobin&theme=tokyonight" alt="GitHub Profile Summary" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christiantobin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christiantobin&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christiantobin&theme=tokyonight" alt="Top Languages" />
+</p>
 
 </div>
 
