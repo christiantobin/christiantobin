@@ -49,11 +49,6 @@ I'm a passionate software engineer specializing in **IoT and embedded systems**,
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christiantobin&theme=tokyonight" alt="GitHub Profile Summary" />
 </a>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christiantobin&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christiantobin&theme=tokyonight" alt="Top Languages" />
-</p>
-
 </div>
 
 ---
